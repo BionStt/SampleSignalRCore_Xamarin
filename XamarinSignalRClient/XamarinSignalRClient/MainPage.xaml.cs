@@ -146,7 +146,7 @@ namespace XamarinSignalRClient
             }
             _state = state;
         }
-
+        //
         private enum ViewState
         {
             Disconnected,
